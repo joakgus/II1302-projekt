@@ -1,4 +1,7 @@
 # II1302-projekt
+
+Joakim added this!!!
+
 Joppe was here <3
 
 hejhej
@@ -11,3 +14,4 @@ hallojsantjena!
 
 Det här är Joars coola commit!
 Ojojojoj
+
